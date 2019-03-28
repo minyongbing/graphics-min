@@ -6,7 +6,7 @@ package graphics
 
 import (
 	"errors"
-	"github.com/graphics-min/convolve"
+	"github.com/minyongbing/graphics-min/convolve"
 	"image"
 	"image/draw"
 	"math"

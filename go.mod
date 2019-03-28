@@ -1,3 +1,3 @@
-module github.com/graphics-min
+module github.com/minyongbing/graphics-min
 
 go 1.12

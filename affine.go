@@ -7,7 +7,7 @@ package graphics
 import (
 	//"code.google.com/p/graphics-go/graphics/interp"
 	"errors"
-	"github.com/graphics-min/interp"
+	"github.com/minyongbing/graphics-min/interp"
 	"image"
 	"image/draw"
 	"math"

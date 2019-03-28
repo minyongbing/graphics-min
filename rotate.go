@@ -6,7 +6,7 @@ package graphics
 
 import (
 	"errors"
-	"github.com/graphics-min/interp"
+	"github.com/minyongbing/graphics-min/interp"
 	"image"
 	"image/draw"
 )
